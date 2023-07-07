@@ -6,5 +6,5 @@ Just provide the spesific folder location in the argument
 ```
 C:\>rwxfinder.exe C:\
 ```
-example output :
+Output (Tested on Windows 10 64 bit)
 ![image info](./output.png)
